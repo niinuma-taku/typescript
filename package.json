@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/niinuma-taku/typescript/issues"
   },
-  "homepage": "https://github.com/niinuma-taku/typescript#readme"
+  "homepage": "https://github.com/niinuma-taku/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
