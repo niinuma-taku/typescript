@@ -1,2 +1,2 @@
-let massage: string ='hello,typescript';
+let massage: string ='hello,ts-node';
 console.log({massage});
